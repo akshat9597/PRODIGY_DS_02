@@ -78,7 +78,8 @@ The dataset was cleaned by handling missing values and removing unnecessary data
 
 ## 📷 Sample Output
 
-Visualizations generated include survival comparisons, distribution graphs, and correlation heatmaps that help understand passenger survival trends.
+<img width="1470" height="956" alt="Screenshot 2026-05-02 at 11 49 14 PM" src="https://github.com/user-attachments/assets/6037ed01-a3ad-4e58-b2a8-99096d33a436" />
+
 
 ---
 
